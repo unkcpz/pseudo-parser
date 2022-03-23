@@ -1,0 +1,8 @@
+click==8.0.3
+
+[dev]
+bumpver==2021.1114
+pre-commit==2.11.1
+
+[tests]
+pytest

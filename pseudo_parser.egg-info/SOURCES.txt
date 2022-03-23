@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+pseudo_parser/__init__.py
+pseudo_parser/upf.py
+pseudo_parser.egg-info/PKG-INFO
+pseudo_parser.egg-info/SOURCES.txt
+pseudo_parser.egg-info/dependency_links.txt
+pseudo_parser.egg-info/requires.txt
+pseudo_parser.egg-info/top_level.txt

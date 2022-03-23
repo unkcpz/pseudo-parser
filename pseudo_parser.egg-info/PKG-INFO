@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: pseudo-parser
+Version: 22.3.0a0
+Summary: Package for the parse pseudopotential of any type
+Home-page: https://github.com/unkcpz/pseudo-parser
+Author: Jusong Yu
+Author-email: jusong.yu@epfl.ch
+License: MIT
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+Provides-Extra: tests
+License-File: LICENSE
+
+# pseudo-parser
+
